@@ -1,10 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-1", "day-1-historian-hysteria-part-1\day-1-historian-hysteria-part-1.csproj", "{38C6D7F6-D39E-4B83-A612-FBABC5054191}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1: Historian Hysteria", "Day 1: Historian Hysteria", "{3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-2", "day-1-historian-hysteria-part-2\day-1-historian-hysteria-part-2.csproj", "{26554AED-074D-4034-B083-37A81847DA60}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 2:", "Day 2:", "{DDF0F2F7-18F9-4DF5-9473-46A319E5EC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-1", "day-1\day-1-historian-hysteria-part-1\day-1-historian-hysteria-part-1.csproj", "{AB579232-67FC-4A98-9D7B-29DBB2B0E47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-2", "day-1\day-1-historian-hysteria-part-2\day-1-historian-hysteria-part-2.csproj", "{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,17 +14,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38C6D7F6-D39E-4B83-A612-FBABC5054191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38C6D7F6-D39E-4B83-A612-FBABC5054191}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38C6D7F6-D39E-4B83-A612-FBABC5054191}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38C6D7F6-D39E-4B83-A612-FBABC5054191}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26554AED-074D-4034-B083-37A81847DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26554AED-074D-4034-B083-37A81847DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26554AED-074D-4034-B083-37A81847DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26554AED-074D-4034-B083-37A81847DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB579232-67FC-4A98-9D7B-29DBB2B0E47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB579232-67FC-4A98-9D7B-29DBB2B0E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB579232-67FC-4A98-9D7B-29DBB2B0E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB579232-67FC-4A98-9D7B-29DBB2B0E47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{38C6D7F6-D39E-4B83-A612-FBABC5054191} = {3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}
-		{26554AED-074D-4034-B083-37A81847DA60} = {3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}
+		{AB579232-67FC-4A98-9D7B-29DBB2B0E47D} = {3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}
+		{B0FA1F3E-E0BC-4BD0-BE47-B2C7D85738CA} = {3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}
 	EndGlobalSection
 EndGlobal
