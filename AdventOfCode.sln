@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part-1", "part-1\part-1.csproj", "{38C6D7F6-D39E-4B83-A612-FBABC5054191}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-1", "day-1-historian-hysteria-part-1\day-1-historian-hysteria-part-1.csproj", "{38C6D7F6-D39E-4B83-A612-FBABC5054191}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 1: Historian Hysteria", "Day 1: Historian Hysteria", "{3064E576-2D11-4F0A-9E15-4F9F34B5D3B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "part-2", "part-2\part-2.csproj", "{26554AED-074D-4034-B083-37A81847DA60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-1-historian-hysteria-part-2", "day-1-historian-hysteria-part-2\day-1-historian-hysteria-part-2.csproj", "{26554AED-074D-4034-B083-37A81847DA60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
